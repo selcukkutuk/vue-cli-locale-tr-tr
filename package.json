@@ -1,11 +1,11 @@
 {
-  "name": "vue-cli-locale-tr",
+  "name": "vue-cli-locale-tr-tr",
   "version": "0.1.4",
   "description": "Turkish localization for @vue/cli",
   "unpkg": "./locales/tr.json",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/selcukkutuk/vue-cli-locale-tr.git"
+    "url": "git+https://github.com/selcukkutuk/vue-cli-locale-tr-tr.git"
   },
   "keywords": [
     "vuejs",
@@ -15,7 +15,7 @@
   "author": "Selçuk Kütük",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/selcukkutuk/vue-cli-locale-tr/issues"
+    "url": "https://github.com/selcukkutuk/vue-cli-locale-tr-tr/issues"
   },
-  "homepage": "https://github.com/selcukkutuk/vue-cli-locale-tr#readme"
+  "homepage": "https://github.com/selcukkutuk/vue-cli-locale-tr-tr#readme"
 }
