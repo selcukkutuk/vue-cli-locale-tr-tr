@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-locale-tr-tr",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Turkish localization for @vue/cli",
   "unpkg": "./locales/tr.json",
   "repository": {
